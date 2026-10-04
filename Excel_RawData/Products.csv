@@ -1,0 +1,79 @@
+ProductID,ProductName,Category,Subcategory,UnitCost
+P-001,Business Laptop,Technology,Laptops,689.82
+P-002,Ultrabook Laptop,Technology,Laptops,178.32
+P-003,Gaming Laptop,Technology,Laptops,386.46
+P-004,Student Laptop,Technology,Laptops,343.32
+P-005,Convertible Laptop,Technology,Laptops,770.61
+P-006,Workstation Laptop,Technology,Laptops,720.85
+P-007,Smartphone Pro,Technology,Phones,595.63
+P-008,Smartphone Plus,Technology,Phones,114.9
+P-009,Budget Smartphone,Technology,Phones,314.89
+P-010,Business Smartphone,Technology,Phones,80.79
+P-011,Camera Smartphone,Technology,Phones,193.53
+P-012,Wireless Mouse,Technology,Accessories,52.63
+P-013,Mechanical Keyboard,Technology,Accessories,7.74
+P-014,USB-C Hub,Technology,Accessories,23.89
+P-015,Webcam,Technology,Accessories,66.18
+P-016,Bluetooth Headset,Technology,Accessories,56.34
+P-017,Laptop Stand,Technology,Accessories,25.92
+P-018,Portable SSD,Technology,Accessories,60.49
+P-019,Wireless Charger,Technology,Accessories,81.13
+P-020,24-inch Monitor,Technology,Monitors,47.53
+P-021,27-inch Monitor,Technology,Monitors,296.92
+P-022,32-inch Monitor,Technology,Monitors,263.32
+P-023,Ultrawide Monitor,Technology,Monitors,151.66
+P-024,4K Monitor,Technology,Monitors,94.01
+P-025,Copy Paper Pack,Office Supplies,Paper,15.87
+P-026,Premium Printer Paper,Office Supplies,Paper,6.71
+P-027,Recycled Paper Pack,Office Supplies,Paper,3.12
+P-028,Photo Paper,Office Supplies,Paper,3.18
+P-029,A4 Binder,Office Supplies,Binders,11.87
+P-030,Presentation Binder,Office Supplies,Binders,8.86
+P-031,Ring Binder,Office Supplies,Binders,11.37
+P-032,Document Folder,Office Supplies,Binders,10.41
+P-033,Ballpoint Pen Set,Office Supplies,Writing,6.39
+P-034,Gel Pen Set,Office Supplies,Writing,10.73
+P-035,Highlighter Set,Office Supplies,Writing,4.82
+P-036,Marker Set,Office Supplies,Writing,6.54
+P-037,Notebook,Office Supplies,Writing,9.3
+P-038,File Organizer,Office Supplies,Storage,16.11
+P-039,Desk Organizer,Office Supplies,Storage,21.62
+P-040,Archive Box,Office Supplies,Storage,15.18
+P-041,Document Tray,Office Supplies,Storage,18.06
+P-042,Ergonomic Office Chair,Furniture,Chairs,46.44
+P-043,Executive Office Chair,Furniture,Chairs,105.79
+P-044,Visitor Chair,Furniture,Chairs,125.84
+P-045,Mesh Task Chair,Furniture,Chairs,57.51
+P-046,Standing Desk,Furniture,Desks,147.45
+P-047,Executive Desk,Furniture,Desks,87.75
+P-048,Compact Desk,Furniture,Desks,167.92
+P-049,Corner Desk,Furniture,Desks,329.97
+P-050,Meeting Table,Furniture,Tables,222.89
+P-051,Conference Table,Furniture,Tables,225.64
+P-052,Side Table,Furniture,Tables,142.9
+P-053,Work Table,Furniture,Tables,172.49
+P-054,Bookcase,Furniture,Shelving,362.39
+P-055,Storage Shelf,Furniture,Shelving,259.35
+P-056,Metal Shelving Unit,Furniture,Shelving,245.46
+P-057,Office Cabinet,Furniture,Shelving,89.1
+P-058,Coffee Maker,Home & Lifestyle,Kitchen,203.35
+P-059,Electric Kettle,Home & Lifestyle,Kitchen,53.72
+P-060,Blender,Home & Lifestyle,Kitchen,110.87
+P-061,Toaster,Home & Lifestyle,Kitchen,272.23
+P-062,Food Processor,Home & Lifestyle,Kitchen,179.78
+P-063,Desk Lamp,Home & Lifestyle,Lighting,79.68
+P-064,Floor Lamp,Home & Lifestyle,Lighting,96.34
+P-065,LED Ceiling Light,Home & Lifestyle,Lighting,116.99
+P-066,Smart Lamp,Home & Lifestyle,Lighting,108.27
+P-067,Wall Clock,Home & Lifestyle,Decor,17.82
+P-068,Decorative Vase,Home & Lifestyle,Decor,5.51
+P-069,Picture Frame,Home & Lifestyle,Decor,23.22
+P-070,Desk Plant,Home & Lifestyle,Decor,20.23
+P-071,Cushion Set,Home & Lifestyle,Decor,16.69
+P-072,Air Purifier,Home & Lifestyle,Appliances,312.16
+P-073,Robot Vacuum,Home & Lifestyle,Appliances,291.36
+P-074,Humidifier,Home & Lifestyle,Appliances,115.84
+P-075,Portable Fan,Home & Lifestyle,Appliances,222.32
+P-076,Refrigerator,Home & Lifestyle,Appliances,429.99
+P-077,Washing Machine,Home & Lifestyle,Appliances,459.99
+P-078,Dishwasher,Home & Lifestyle,Appliances,489.99
