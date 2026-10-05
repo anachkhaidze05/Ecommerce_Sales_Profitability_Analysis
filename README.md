@@ -7,7 +7,9 @@ This project presents an end-to-end analytics solution designed to evaluate sale
 
 ## Tools Used
 **Database Management:** SQL Server (SSMS) - DDL, DML, Advanced Aggregations, Joins.
+
 **Business Intelligence & Visualization:** Power BI Desktop - DAX Measures, Visual Data Modeling.
+
 **Data Processing:** Microsoft Excel / CSV.
 
 ------------------------------
